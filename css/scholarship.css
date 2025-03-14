@@ -5678,6 +5678,11 @@ textarea.contact__form-control {
     margin: 0 auto 10px auto;
   }
 
+  .scholarship03__last-content-text {
+    font-size: 18px;
+    width: 600px;
+  }
+
   .scholarship03__special-row-container {
     display: none;
   }
